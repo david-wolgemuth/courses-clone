@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/david-wolgemuth/courses-clone-client.git
+[submodule "api"]
+	path = api
+	url = https://github.com/david-wolgemuth/courses-clone-api.git
